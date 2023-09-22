@@ -11,7 +11,7 @@ Fonts are separated by a & */
   --accent1-color: #A42212;
   --accent2-color: white;*/
   /*Color Theme Swatches in Hex*/
---primary-color: color: #244673;
+--primary-color: #244673;
 --secondary-color: #295073;
 /*.White-Water-Rafting-3-hex { color: #6588A6; }*/
 --accent1-color: #9CBCD9;
@@ -27,8 +27,8 @@ Fonts are separated by a & */
   --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
   --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
   --paragraph-background-color: #396E94  ;
-  --nav-link-color: #396E94;
-  --nav-background-color: #D4AC0D;
+  --nav-link-color: #9CBCD9;
+  --nav-background-color: #244673;
   --nav-hover-link-color: white;
   --nav-hover-background-color: #396E94;
 }
