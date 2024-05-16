@@ -1,0 +1,51 @@
+Basics
+    Internet - global network of computers that can talk to each other
+        TCP/IP
+    WWW - docs and apps
+        http - hyper text transfer protocol
+    Web user makes a request to the web server that holds the file
+    Client(Front-end) - Chrome, edge, safari
+    Web server is the backend
+    DNS - domain name system?
+    Front end languages - html and CSS
+    Backend languages - python and php
+
+What is HTML?
+    Gives structure to a webpage
+    Parent and child tags - nesting
+    Hyper Text Markup Language
+    "Code around the content"
+    BASIC SET UP
+        <!DOCTYPE html>
+        <html>
+            <head>
+                <title> Page Title</title>
+            </head>
+            <body>
+                <header>
+                    <nav>
+                        <a href= "index.html">Home</a>
+                    </nav>
+                </header>
+                <main>
+                    <img src="pic.jpg" alt="description">
+            </body>
+        </html>
+
+HTML Elements and Attributes
+    Inside the body
+        Header - will remain the same from one page to another, a the top
+            Nav - menu, navigationlink
+                a - tags to take them somewhere else, name value pairs
+        Main - unique to each page of the webiste
+            img no closing tag
+        Footer - same from page to page, at the bottom
+    Semantics - what type of content because of the elements you use
+
+What is CSS?
+    Style an HTML language
+    Cascading Style Sheets
+        One style rule can be applied to a lot of different things
+    In line CSS - not the best way have to put it in a lot of places and defeats the Cascading purpose
+    Imbed in head section - not prefered can't reuse it
+    Seperate CSS file - best way

@@ -1,0 +1,29 @@
+Getting Webpage Live
+
+Comments in Code
+  Html <!-- comment here -->
+  CSS /* comment here */
+
+CSS Syntax and Inheritance
+    selector - where
+    selector {rules/}
+    Precedence and Inheritance
+     1. Inline
+     2. Embedded
+     3. External
+    Whatever is run last takes presensidence
+    Inheritance
+        The children inherit the parents style
+
+Fonts
+    Websafe fonts - universal but they are all recognized
+    Google fonts or font squirrel
+        @import
+        ttf - the file itself
+        should be at the very top
+    font-family: Arial; the most used one
+    alt list - good for font family property as a back up
+    quotes around font names with spaces in them
+
+Colors
+    Color name, hexidecimal #, rgb values - allows for opacity rgb only
